@@ -13,7 +13,6 @@ import {
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { zodResolver } from "@hookform/resolvers/zod";
-import { headers } from "next/headers";
 import { useRouter } from "next/navigation";
 
 import React from "react";
